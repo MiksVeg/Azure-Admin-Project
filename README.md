@@ -3,6 +3,8 @@
 ## Overview
 Welcome to the Azure Website Deployment project! This repository contains the necessary scripts and configurations to deploy a sophisticated website architecture for a corporate client using Microsoft Azure services. The project aims to optimize traffic distribution, enhance user experience, and ensure seamless connectivity across geographically dispersed regions.
 
+![image](https://github.com/MiksVeg/Azure-Admin-Project/blob/main/Azure%20lb.png)
+
 ## Project Goals
 - Deploy a multi-page website consisting of a home page, an upload page connected to Azure Blob Storage, and custom error pages.
 - Configure Application Gateway to efficiently route traffic based on user requests.
